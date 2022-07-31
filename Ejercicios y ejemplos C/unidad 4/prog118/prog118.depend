@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657398707 source:i:\facultad\programación estructurada\ejercicios y ejemplos c\unidad 4\prog118\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

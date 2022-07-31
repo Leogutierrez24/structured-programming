@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652108879 source:e:\facultad\programación estructurada\ejercicios y ejemplos c\unidad 3\ejer62\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

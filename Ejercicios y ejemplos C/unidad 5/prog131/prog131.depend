@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657484116 source:i:\facultad\programación estructurada\ejercicios y ejemplos c\prog131\main.c
+	<stdio.h>
+	<stdlib.h>
+
